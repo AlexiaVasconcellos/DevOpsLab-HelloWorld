@@ -20,5 +20,15 @@ script:
 deploy:
   provider: heroku
   api-key:
-    secure: HEROKU_API_KEY
+    secure: Requesting Travis public key from https://api.travis-ci.org/repos/AlexiaVasconcellos/DevOpsLab-HelloWorld/key
+
+Public key of AlexiaVasconcellos/DevOpsLab-HelloWorld:
+
+-----BEGIN PUBLIC KEY----- MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAsIaiHlLggb1q4pK99QNN dfrzaE7Hhs+/oy2Yn5LWoqzGPQr5ZGxeNK10d+0gie8d4VHH+u5j3JAiSNS0jFDi SzLHm6wJdULFZyf2RlLL1/uavnhWJYGosUMeDjORHl/bNAkEtmoQ+9XPnP7zyfs1 2M5oBkXaJRl3at3+a+RE+d1Q/pnsly8l4ymXgxAnUIsx+GgwU3NCJuBZY3mlyfSA RBl8AtfqtqvUkr4PSx2yFqipTgGiL2gwKH/WCatDPYrN3yC5RpusD+q9fh1XEBo7 Qz2gij99h0CcQJI87NSkKxMMKjty0LAp7XCKJEaMnXfdeBG160mDAUz+rd+HfW2J U2Y09hbCvIiCfpTLXP2X239mL5WGmCRhznzN6s2ts+8TE9cL+1QcBChdk+kJdkPm pr8PKuRL3c/zXVc6mfQy3LUspJLBzBRHJzKnvr4pSf+xwdNWQhifYyBL4AcLuM3w yUP5jn9yezYmWrL2dKn36NmWZv1Q5NIYVdT4jQJtyyNbWZNpycKlWdJi9PNS8wZ4 nR3fEtZicY2TPJnR5t8ddD9Y1LF35sMYCuxbtCzNd20CQuDh5E58rLdwsY0egimj k7URxyDp/rCFKLO3QaBf1TNBDG5J6grVwQS/H1KB/BbEzvsFkJ36IisuYL6HSvig 7SLMvzzSjdlkDnTyXSLGG6cCAwEAAQ== -----END PUBLIC KEY-----
+
+Encrypted data:
+
+VwdB+ElzUdNSr1wNDC0Z2bmeIQR1/FGuqKjeUeLkgkMJUoI63DzUQbLtivKxp9tzt/zMtgtEZE0upaKR8wGhkE/CBtYEwHD2E3b8lGizCXOvY/AUhuehe5T4L6zsiOZHqi1/QUktxUZ6NS5Amu5KNlixMjFQJAIicd+1iuWp56R2nB9z6rdFA+WIZx7fd27x6bV0ELV/ry4wou4rAGeu6C9aaGX/xoszfNGyOk+PBY7f7NuqOGG4U3UcAjU8fcMLDFOktrtJyKTScEPCvYQvGP/BZZgZqCCLOdreK4M5qCO7kB0nPNh325MphiXSmYvJNQT2e9vQvey8RNiBp5AQD0ta7b3RelxUPPH9eJhzdatH17Ef7vXLCZ0xhd1/oEGkA3GjhZSojrOyxSwKUY/8cHeIeeQYLusC5w6ZmK9s+LaUiRLjOSRtJbe0gq2b+cGMc+ODhkKfAY1FpiIEy0uk8as8AQmNLe7Z/uHx3kcrKNkrHRux9PaEHQqyCgxyWHYQ7ymOCEWCVI++/RpVe59ECOqVKvKL2PHHd5XyBph6uVXJAbP7PtdQyMrFXuU9WGyYbN2GV2O3Yt4PdLrWD8OTPdatxopjgBLVMKuCBX5OsEJCfrKANKg4x/FXRYncs2hosClN3r+jQmXoVfOtf32yxMYhTIy6vTlJMzaIpnlT5+s=
+
+
   app: devops-alexia-helloword
